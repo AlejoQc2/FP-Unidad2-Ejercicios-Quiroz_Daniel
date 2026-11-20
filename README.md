@@ -20,6 +20,6 @@
 **13     ContarVocales           Completo**
 **14     GenerarCodigo           Completo** 
 
-##Se uso IA para entender los ejercicios, como funciona cada método, y saber de errores
+## Se uso IA para entender los ejercicios, como funciona cada método, y saber de errores
 
-##Se vio un video tutorial de youtube para entender un poco mas sobre los comandos
+## Se vio un video tutorial de youtube para entender un poco mas sobre los comandos
